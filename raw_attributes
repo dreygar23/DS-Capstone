@@ -1,4 +1,3 @@
-attribute							 type
 EMPLID             615165 non-null  int64  
 TERM_ID            615165 non-null  int64  
 ADMIT_TERM         615165 non-null  object 
